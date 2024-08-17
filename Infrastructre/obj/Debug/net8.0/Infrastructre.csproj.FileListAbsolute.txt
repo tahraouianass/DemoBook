@@ -1,0 +1,12 @@
+C:\Users\anass\OneDrive\Desktop\DotNetPr\DemoBook\Infrastructre\bin\Debug\net8.0\Infrastructre.deps.json
+C:\Users\anass\OneDrive\Desktop\DotNetPr\DemoBook\Infrastructre\bin\Debug\net8.0\Infrastructre.dll
+C:\Users\anass\OneDrive\Desktop\DotNetPr\DemoBook\Infrastructre\bin\Debug\net8.0\Infrastructre.pdb
+C:\Users\anass\OneDrive\Desktop\DotNetPr\DemoBook\Infrastructre\obj\Debug\net8.0\Infrastructre.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anass\OneDrive\Desktop\DotNetPr\DemoBook\Infrastructre\obj\Debug\net8.0\Infrastructre.AssemblyInfoInputs.cache
+C:\Users\anass\OneDrive\Desktop\DotNetPr\DemoBook\Infrastructre\obj\Debug\net8.0\Infrastructre.AssemblyInfo.cs
+C:\Users\anass\OneDrive\Desktop\DotNetPr\DemoBook\Infrastructre\obj\Debug\net8.0\Infrastructre.csproj.CoreCompileInputs.cache
+C:\Users\anass\OneDrive\Desktop\DotNetPr\DemoBook\Infrastructre\obj\Debug\net8.0\Infrastructre.sourcelink.json
+C:\Users\anass\OneDrive\Desktop\DotNetPr\DemoBook\Infrastructre\obj\Debug\net8.0\Infrastructre.dll
+C:\Users\anass\OneDrive\Desktop\DotNetPr\DemoBook\Infrastructre\obj\Debug\net8.0\refint\Infrastructre.dll
+C:\Users\anass\OneDrive\Desktop\DotNetPr\DemoBook\Infrastructre\obj\Debug\net8.0\Infrastructre.pdb
+C:\Users\anass\OneDrive\Desktop\DotNetPr\DemoBook\Infrastructre\obj\Debug\net8.0\ref\Infrastructre.dll
