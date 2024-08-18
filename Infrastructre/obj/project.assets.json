@@ -8,24 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\anass\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\DELL\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\anass\\OneDrive\\Desktop\\DotNetPr\\DemoBook\\Infrastructre\\Infrastructre.csproj",
+      "projectUniqueName": "C:\\Users\\DELL\\Desktop\\DotNetPr\\WebBook\\DemoBook\\Infrastructre\\Infrastructre.csproj",
       "projectName": "Infrastructre",
-      "projectPath": "C:\\Users\\anass\\OneDrive\\Desktop\\DotNetPr\\DemoBook\\Infrastructre\\Infrastructre.csproj",
-      "packagesPath": "C:\\Users\\anass\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\anass\\OneDrive\\Desktop\\DotNetPr\\DemoBook\\Infrastructre\\obj\\",
+      "projectPath": "C:\\Users\\DELL\\Desktop\\DotNetPr\\WebBook\\DemoBook\\Infrastructre\\Infrastructre.csproj",
+      "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\DELL\\Desktop\\DotNetPr\\WebBook\\DemoBook\\Infrastructre\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\anass\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
