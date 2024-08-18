@@ -1,7 +1,18 @@
+using Infrastructre.Data;
+using Infrastructre.ViewModel;
+using Microsoft.AspNetCore.Identity;
+using Microsoft.EntityFrameworkCore;
+using System.Configuration;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+builder.Services.AddDbContext<FreeBookDbContext>( options =>
+options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection"),
+b => b.MigrationsAssembly("DemoBook")
+));
+builder.Services.AddIdentity<ApplicationUser, IdentityRole>().AddEntityFrameworkStores<FreeBookDbContext>();
 
 var app = builder.Build();
 

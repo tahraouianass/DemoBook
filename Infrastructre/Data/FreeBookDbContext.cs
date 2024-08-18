@@ -1,4 +1,6 @@
 ﻿using Domain.Entity;
+using Infrastructre.ViewModel;
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
@@ -8,7 +10,7 @@ using System.Threading.Tasks;
 
 namespace Infrastructre.Data
 {
-	public class FreeBookDbContext : DbContext
+	public class FreeBookDbContext : IdentityDbContext<ApplicationUser>
 	{
 		public FreeBookDbContext(DbContextOptions<FreeBookDbContext> options):base(options) 
 		{ 
