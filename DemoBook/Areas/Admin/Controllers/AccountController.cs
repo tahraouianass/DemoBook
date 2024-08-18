@@ -2,9 +2,11 @@
 
 namespace DemoBook.Areas.Admin.Controllers
 {
+    [Area("Admin")]
     public class AccountController : Controller
     {
-        public IActionResult Index()
+        
+        public IActionResult Login()
         {
             return View();
         }
