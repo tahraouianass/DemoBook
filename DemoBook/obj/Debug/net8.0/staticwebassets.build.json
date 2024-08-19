@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "iJReZYT+Wb5qzbK1hvpM6bDRFQ7mHNZpxD77LMXLbhw=",
+  "Hash": "4+/AkQwhSuUPG+lCEe5XRU9k/xdynRBhqY7aXBB2s44=",
   "Source": "DemoBook",
   "BasePath": "_content/DemoBook",
   "Mode": "Default",
@@ -12593,6 +12593,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Identity": "C:\\Users\\DELL\\Desktop\\DotNetPr\\WebBook\\DemoBook\\DemoBook\\wwwroot\\Modules\\Roles.js",
+      "SourceId": "DemoBook",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\DELL\\Desktop\\DotNetPr\\WebBook\\DemoBook\\DemoBook\\wwwroot\\",
+      "BasePath": "_content/DemoBook",
+      "RelativePath": "Modules/Roles.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Modules\\Roles.js"
     },
     {
       "Identity": "C:\\Users\\DELL\\Desktop\\DotNetPr\\WebBook\\DemoBook\\DemoBook\\wwwroot\\Web\\assets\\css\\main.css",

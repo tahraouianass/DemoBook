@@ -15,6 +15,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <Folder Include="Resource\" />
     <Folder Include="wwwroot\Admin\" />
     <Folder Include="wwwroot\Web\" />
   </ItemGroup>
